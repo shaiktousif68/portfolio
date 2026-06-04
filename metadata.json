@@ -1,0 +1,6 @@
+{
+  "name": "Shaik Tousiff Cyber Portfolio",
+  "description": "An interactive, sci-fi cyber-themed recruiter portfolio and master prompt generator for Shaik Tousiff, showcasing his projects, skills (excluding Java), and experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
